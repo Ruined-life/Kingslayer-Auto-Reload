@@ -1,6 +1,6 @@
 #KingSlayer Reload#
 
-A python script that auto reloads all cylinders of the KingSlayer for you! (If you have a skill issue)
+A python script that auto reloads all cylinders of the KingSlayer for you in the Roblox game GraveDigger! (If you have a skill issue)
 
 
 ## Table of Contents
