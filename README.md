@@ -45,7 +45,7 @@ I: Stops reloading immediately (after current bullet)
 
 4. **Contributions**
 
-Feel free to copy this and tinker to your hearts content. This is my first github project so it's definitely shit. I wont accept pull requests but I will read them as I want to preserve this so I can look back and see my growth. Have fun saving time on reloading this!
+Feel free to copy this and tinker to your hearts content. This is my first github project so it's definitely shit. I wont accept pull requests to merge with the main branch, but create an alternative branch. I will read them as I want to preserve this so I can look back and see my growth. Have fun saving time on reloading this!
 
 
 Created by: **Ruined-life**
